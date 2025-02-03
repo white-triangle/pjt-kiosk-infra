@@ -1,4 +1,4 @@
 # pjt-kiosk-infra
 인프라 관련 repo
 
-<img src="https://github.com/user-attachments/assets/5c942024-9b30-4d13-bf33-a6a381782f2e" alt="architecture" width="1000"  />
+<img src="https://github.com/user-attachments/assets/e307da95-14b3-4788-b11d-359f33780907" alt="architecture" width="1000"  />
